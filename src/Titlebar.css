@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Play:wght@700&family=Playfair+Display&family=Poiret+One&display=swap");
+
+h1#app-title {
+  font-family: "Play", sans-serif;
+  font-size: 48px;
+}
